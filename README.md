@@ -1,12 +1,12 @@
 
 
-##Azure Certs
+## Azure Certs
 - Az-900 - done
 - Az-204 - done
 - Az-400 
 
 
-##Kubernetes Certs
+## Kubernetes Certs
 - Admin 
 - App Developer
 - Security Specialist
@@ -14,7 +14,7 @@
 - Cloud Native Security 
 
 
-##Terraform Certs
+## Terraform Certs
 - Terraform Associate - 003
 - Vault Associate - 002
 - Vault Operations Professional 
@@ -22,7 +22,7 @@
 - Consul Associate - 003 
 
 
-##Others Certs 
+## Others Certs 
 - Linux+
 - Network+
 - Security+
@@ -33,7 +33,7 @@
 - Finish CalTech program
 
 
-##Skills 
+## Skills 
 - Bicep
 - Kubernetes 
 - Helm 
@@ -46,12 +46,12 @@
 - Git 
 
 
-##Projects 
+## Projects 
 - Portfolio website
 - Navigation system
 - Retirement calculation app 
 
 
-##Other
+## Other
 - Improve algorithm skills 
 - Network
