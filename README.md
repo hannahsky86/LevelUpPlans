@@ -1,10 +1,12 @@
+In Progress
+- Helm 
+- CalTech program
 
 
 ## Azure Certs
 - Az-900 - done
 - Az-204 - done
-- Az-400 
-
+- Az-400 - done
 
 ## Kubernetes Certs
 - Admin 
