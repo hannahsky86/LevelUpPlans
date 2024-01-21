@@ -1,6 +1,9 @@
 In Progress
 - Helm 
 - CalTech program
+- Linux
+-- linuxjourney
+-- labex
 
 
 ## Azure Certs
