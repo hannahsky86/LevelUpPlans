@@ -1,15 +1,15 @@
 In Progress
 - Helm 
-- CalTech program
 - Linux
--- linuxjourney
--- labex
+-- labex 
+-- Kubernetes
 
-
-## Azure Certs
+## Done 
 - Az-900 - done
 - Az-204 - done
 - Az-400 - done
+- CalTech program - done 
+
 
 ## Kubernetes Certs
 - Admin 
