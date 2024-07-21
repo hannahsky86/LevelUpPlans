@@ -1,8 +1,8 @@
 In Progress
 - Helm 
 - Linux
--- labex 
--- Kubernetes
+- labex 
+- Kubernetes
 
 ## Done 
 - Az-900 - done
